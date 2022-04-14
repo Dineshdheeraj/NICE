@@ -1,5 +1,5 @@
 # do this before your build tasks
-steps:
+steps
 - task: DotNetCoreCLI@2
   displayName: Restore
   inputs:
